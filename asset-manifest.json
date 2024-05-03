@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PrashantaPH/frontend-app/static/css/main.13cceb33.css",
-    "main.js": "/PrashantaPH/frontend-app/static/js/main.9c780df8.js",
-    "static/js/453.02e6e741.chunk.js": "/PrashantaPH/frontend-app/static/js/453.02e6e741.chunk.js",
-    "index.html": "/PrashantaPH/frontend-app/index.html",
-    "main.13cceb33.css.map": "/PrashantaPH/frontend-app/static/css/main.13cceb33.css.map",
-    "main.9c780df8.js.map": "/PrashantaPH/frontend-app/static/js/main.9c780df8.js.map",
-    "453.02e6e741.chunk.js.map": "/PrashantaPH/frontend-app/static/js/453.02e6e741.chunk.js.map"
+    "main.css": "/PrashantaPH/frontend/static/css/main.13cceb33.css",
+    "main.js": "/PrashantaPH/frontend/static/js/main.e15d48c1.js",
+    "static/js/453.02e6e741.chunk.js": "/PrashantaPH/frontend/static/js/453.02e6e741.chunk.js",
+    "index.html": "/PrashantaPH/frontend/index.html",
+    "main.13cceb33.css.map": "/PrashantaPH/frontend/static/css/main.13cceb33.css.map",
+    "main.e15d48c1.js.map": "/PrashantaPH/frontend/static/js/main.e15d48c1.js.map",
+    "453.02e6e741.chunk.js.map": "/PrashantaPH/frontend/static/js/453.02e6e741.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13cceb33.css",
-    "static/js/main.9c780df8.js"
+    "static/js/main.e15d48c1.js"
   ]
 }
